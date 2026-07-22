@@ -53,5 +53,6 @@ Here’s a step-by-step breakdown of what we do in this project:
 4. Data Cleaning
 5. Business Insights
 
-👨‍💻 About the Author
+👨‍💻 About the Author:
+
 Hey, I’m Vajrala Geethika — looking to start a career in Data Analytics. I break down complex data topics into simple, make a story out of it.
